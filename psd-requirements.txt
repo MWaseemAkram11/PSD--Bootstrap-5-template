@@ -1,0 +1,18 @@
+font families:......
+poppins SemiBold
+Archivo Bold
+Nunito Regular
+semibold
+Montserrat Bold
+regular
+calistoga Regular
+f15545
+
+
+Name           :   Muhammad Waseem Akram
+Official Email :
+   waseem.akram@arhamsoft.org
+Designation    :   Associate Software Engineer
+Team name      :
+   MERN Stack
+Projects name  :   Not Assigned yet/Learning
